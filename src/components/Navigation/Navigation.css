@@ -1,0 +1,49 @@
+nav {
+    margin: 0;
+    padding: 0;
+    top: 0;
+    height: 25vh;
+    position: sticky;
+    width: 100%;
+    background-image: url(./navbar.png);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    display: flex;
+    justify-content: stretch;
+    transition: all .3s;
+    z-index: 100;
+}
+
+nav.scrolled {
+    height: 20vh;
+    filter: drop-shadow(4px 4px rgba(41, 85, 105, 0.5));
+}
+
+.container > p {
+    margin-top: 0.5em;
+    font-size: 21px;
+    cursor: pointer;
+}
+
+
+.container {
+    width: 80%;
+    display: flex;
+    justify-content: center;
+    gap: 150px;
+}
+
+.image {
+    padding: 5px;
+    width: 20%;
+    height: 80%;
+    object-fit: contain;
+
+}
+
+
+.image > img {
+    height: 100%;
+    width: auto;
+}
+
