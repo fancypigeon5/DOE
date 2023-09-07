@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/DOE/static/css/main.ee276c6e.css",
+    "main.js": "/DOE/static/js/main.fa133b3c.js",
+    "static/js/787.2237930b.chunk.js": "/DOE/static/js/787.2237930b.chunk.js",
+    "static/media/logoDoe.png": "/DOE/static/media/logoDoe.eb16bd6c79aa97914f07.png",
+    "static/media/sticker_business.jpg": "/DOE/static/media/sticker_business.928aaadb2232174d98e9.jpg",
+    "static/media/Laptop.jpg": "/DOE/static/media/Laptop.14d240afa035be0053ee.jpg",
+    "static/media/navbar.png": "/DOE/static/media/navbar.29002da176c136cd31df.png",
+    "static/media/silhouette.webp": "/DOE/static/media/silhouette.a8f648f5ce193dda5582.webp",
+    "index.html": "/DOE/index.html",
+    "main.ee276c6e.css.map": "/DOE/static/css/main.ee276c6e.css.map",
+    "main.fa133b3c.js.map": "/DOE/static/js/main.fa133b3c.js.map",
+    "787.2237930b.chunk.js.map": "/DOE/static/js/787.2237930b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ee276c6e.css",
+    "static/js/main.fa133b3c.js"
+  ]
+}
